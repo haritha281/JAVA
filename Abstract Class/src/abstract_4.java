@@ -1,4 +1,4 @@
-//3. Create an instance for the child class in child class and call non-abstract methods
+//4. Create an instance for the child class in child class and call non-abstract methods
 abstract class ex{
     abstract void disp();
     public void disp1(){
